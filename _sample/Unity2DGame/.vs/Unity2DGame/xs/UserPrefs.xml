@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{AB2FEE48-5D04-74D0-598F-5E4C8B4A2AF4}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/group10_Other/OnMouseDown_DragStart.cs">
+    <Files>
+      <File FileName="Assets/scripts/group7_Prefab/OnMouseDown_CreatePrefab.cs" Line="21" Column="1" />
+      <File FileName="Assets/scripts/group2_Move/Forever_Chase.cs" Line="5" Column="1" />
+      <File FileName="Assets/scripts/group3_Collision/Forever_MoveH_OnCollision_Flip.cs" Line="5" Column="1" />
+      <File FileName="Assets/scripts/group3_Collision/OnCollision_StopGame.cs" Line="5" Column="1" />
+      <File FileName="Assets/scripts/group3_Collision/OnMultiCollision_Hide.cs" Line="5" Column="15" />
+      <File FileName="Assets/scripts/group3_Collision/OnCollision_Hide.cs" Line="5" Column="1" />
+      <File FileName="Assets/scripts/group3_Collision/OnMultiCollision_Show.cs" Line="5" Column="1" />
+      <File FileName="Assets/scripts/group5_Animation/OnKeyPress_ChangeAnime.cs" Line="5" Column="24" />
+      <File FileName="Assets/scripts/group6_Scene/OnCollision_SwitchScene.cs" Line="6" Column="19" />
+      <File FileName="Assets/scripts/group7_Prefab/Sometime_RandomCreatePrefab.cs" Line="29" Column="1" />
+      <File FileName="Assets/scripts/group7_Prefab/OnTimeout_DestroyMe.cs" Line="14" Column="1" />
+      <File FileName="Assets/scripts/group7_Prefab/OnCollision_Destory.cs" Line="6" Column="1" />
+      <File FileName="Assets/scripts/group10_Other/OnMouseDown_DragStart.cs" Line="5" Column="15" />
+      <File FileName="Assets/scripts/group2_Move/OnKeyPress_MoveSpriteH.cs" Line="8" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
